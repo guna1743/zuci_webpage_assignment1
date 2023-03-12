@@ -1,0 +1,216 @@
+.container {
+    background-image: url('https://www.zucisystems.com/wp-content/uploads/2021/11/Zuci-Systems_Home_Hero-Image_Technological-Prowess.webp');
+    height: 600px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+body{
+    margin: 0;
+}
+ .navbar {
+overflow: hidden;
+position: fixed;
+top: 0;
+width: 100%;
+background-color: black;
+}
+.navbar a {
+float: right;
+display: block;
+color: #eeeeee;
+text-align: center;
+padding: 20px ;
+text-decoration: none;
+font-size: 16px;
+
+}
+nav a:hover:not(.logo) {
+
+background-color: bisque;
+border-radius: 40px;
+color: blueviolet;
+}
+.talktous{
+
+background-color:yellow;
+
+}
+.container h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1;
+    padding: 40px 0px 0px 100px;
+}
+.content1 {
+    text-align: center;
+    justify-content: center;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 20px;
+    background-color: grey;
+    padding: 30px;
+}
+.heading {
+    text-align: center;
+    justify-content: center;
+}
+.button1 {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    border-radius: 25px;
+    padding: 15px;
+}
+button a{
+    text-decoration: none;
+}
+.values {
+    display: flex;
+    margin-left: 0px;
+    height: 100px;
+    font-weight: bold;
+    color: purple;
+    background-color: gainsboro;
+    padding: 40px;
+}
+
+.values div {
+    flex: 1 1 0%;
+}
+.v1 {
+    margin-left: 150px;
+}
+.values div {
+    flex: 1 1 0%;
+}
+.v2 {
+    margin-right: 10px;
+}
+.ourclients {
+    display: flex;
+    width: 100%;
+    background-color: aliceblue;
+    padding: 20px 0px;
+}
+
+.ourclients div {
+    flex: 1 1 0%;
+}
+#more {
+    text-align: center;
+    justify-content: center;
+}
+.wayoflife {
+    background-image: url(\9 https://www.zucisystems.com/wp-content/uploads/2021/11/zengigineering.webp);
+    background-repeat: no-repeat;
+}
+.wayofcontent {
+    text-align: center;
+    justify-content: center;
+    color: white;
+    width: 1000px;
+    margin-left: 160px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+.wayoflife button{
+    text-align: center;
+    justify-content: center;
+}
+.technology {
+    background-color: cyan;
+    text-align: center;
+    justify-content: center;
+    padding: 30px 0px;
+}
+.reco {
+    background-image: url(\9 https://www.zucisystems.com/wp-content/uploads/2021/11/counter_bg.webp);
+    background-repeat: no-repeat;
+    padding: 30px 0px 50px;
+}
+.records {
+    display: flex;
+}
+.records div {
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    flex: 1 1 0%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-image: initial;
+    border-radius: 40px;
+}
+.records1 {
+    display: flex;
+}
+.records1 div {
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    flex: 1 1 0%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-image: initial;
+    border-radius: 40px;
+}
+.casestudy {
+    display: flex;
+    padding: 0px 70px;
+}
+.casestudy div {
+    flex: 1 1 0%;
+}
+.casestudy p {
+    font-weight: bolder;
+    padding: 0px 30px;
+}
+.casestudy a {
+    color: cyan;
+    text-decoration: none;
+    padding: 0px 30px;
+}
+
+.casestudy .read {
+    color: black;
+    text-decoration: none;
+}
+.casestudy a {
+    color: cyan;
+    text-decoration: none;
+    padding: 0px 30px;
+
+}
+.casestudy div {
+    flex: 1 1 0%;
+}
+.casestudy p {
+    font-weight: bolder;
+    padding: 0px 30px;
+}
+.technology {
+    background-color: cyan;
+    text-align: center;
+    justify-content: center;
+    padding: 30px 0px;
+}
+
+.footer {
+    color: black;
+    background-color: mintcream;
+    display: flex;
+    padding: 0px 50px;
+}
+.footer div {
+    flex: 1 1 0%;
+}
+footer a{
+    text-decoration: none;
+}
